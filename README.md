@@ -14,9 +14,11 @@ The data used in this project was raw and basic data preprocessing has been done
   pip install -r requirements.txt
 ```
 
-If you want to run project in Visual Studio Code you have to use jupyter extension.
-
 ### How to run the project
+Project is run in a Jupyter notebook. To run it you can use the following command:
+
 ```bash
   jupyter notebook
 ```
+
+If you want to run project in Visual Studio Code you have to use jupyter extension.
